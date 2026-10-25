@@ -1,0 +1,31 @@
+{
+  "name": "Md. Yosuf – research portfolio",
+  "short_name": "Md. Yosuf",
+  "description": "Economics graduate and published researcher in Dhaka, Bangladesh, and founder of YS Scholaria. Work on food prices, budgets, health and road safety.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#F8FAF9",
+  "theme_color": "#0E3A47",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
